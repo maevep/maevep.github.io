@@ -29,11 +29,11 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Bush did 9/11."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
+    "Bush did 9/11.",
+    "Bush did 9/11.",
     "Don't you think computers can help people",
     "Why do you mention computers?",
     "What about computers worries you?",
@@ -41,17 +41,17 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "Bush did 9/11.",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "Bush did 9/11.",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
+    "Bush did 9/11. ~y?",
+    "Bush did 9/11. ~y Bush did 9/11.",
+    "Bush did 9/11.",
     "Why do you recall ~y right now?",
     "What in the present situation reminds you of ~y?",
     "What is the connection between me and ~y?",
